@@ -1,0 +1,32 @@
+p {
+    color: white;
+    font-size: 125%;
+
+}
+
+h1 {
+    color: white;
+    font-size: 255%;
+}
+
+html, body {
+    height: 100%;         
+    margin: 0;            
+    padding: 0;
+  }
+  
+  body {
+    background-image: url('../img/wallpaper.jpg');
+    background-size: cover;            
+    background-repeat: no-repeat;      
+    background-position: center center;
+    background-attachment: fixed;      
+  }
+  
+button {
+  font-size: 125%;
+}
+
+a {
+  font-size: 125%;
+}
